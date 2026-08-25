@@ -154,6 +154,6 @@ Contributions, suggestions, and improvements are welcome. Feel free to fork this
 
 ---
 
-**Author:** *Your Name*
+**Author:** Ujjawal Kumar
 **Tool:** Microsoft Power BI
 **Domain:** Healthcare Analytics
